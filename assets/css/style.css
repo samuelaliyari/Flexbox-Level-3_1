@@ -30,6 +30,9 @@ nav {
     display: flex;
     align-items: center;
     padding: 1.5rem 15rem 1.5rem 15rem;
+    position: fixed;
+    background-color: white;
+    width: 100vw;
 }
 
 
